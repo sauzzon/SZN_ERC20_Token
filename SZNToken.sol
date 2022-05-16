@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
 
-contract Token {
+contract SZNToken {
     string public name = "Sauzzon Token";
     string public symbol = "SZN";
     uint256 public totalSupply = 1000000;
